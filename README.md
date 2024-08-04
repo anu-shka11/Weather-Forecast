@@ -1,1 +1,1 @@
-# Weather-Forecast
+This project utilizes machine learning algorithms to analyze historical weather data and improve the accuracy of weather forecasts, providing users with more reliable predictions also this project develops a visually appealing weather application that effectively communicates complex weather data through interactive charts, maps, and animations."
